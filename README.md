@@ -15,6 +15,4 @@ document what I learn.
 
 **Contact**
 - Email: mohammadamin.asadi.sec@gmail.com
-- LinkedIn: [your link]
-
-*aka 0xvoid404*
+- LinkedIn
